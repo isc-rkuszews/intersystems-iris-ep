@@ -12,9 +12,9 @@ pip install intersystems-iris-ep
 ## Usage
 
 ```py
-import intersystems-iris-ep
+import iris_ep
 
-intersystems-iris-ep.connect()
+iris_ep.connect()
 ```
 
 ## Development

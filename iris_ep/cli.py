@@ -1,4 +1,4 @@
-"""CLI interface for intersystems-iris-ep project.
+"""CLI interface for iris_ep project.
 
 Be creative! do whatever you want!
 
@@ -12,7 +12,7 @@ Be creative! do whatever you want!
 def main():  # pragma: no cover
     """
     The main function executes on commands:
-    `python -m intersystems-iris-ep` and `$ intersystems-iris-ep `.
+    `python -m iris_ep` and `$ iris_ep `.
 
     This is your program's entry point.
 

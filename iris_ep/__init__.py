@@ -11,7 +11,7 @@ def connect(username='_SYSTEM', password='SYS', irisNamespace='USER', irisInstan
 
     Returns the `iris` module for the instance
 
-        iris = intersystems-iris-ep.connect()
+        iris = iris_ep.connect()
 
     """
 

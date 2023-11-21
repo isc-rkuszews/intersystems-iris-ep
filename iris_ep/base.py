@@ -1,5 +1,5 @@
 """
-intersystems-iris-ep base module.
+iris_ep base module.
 
 """
 
