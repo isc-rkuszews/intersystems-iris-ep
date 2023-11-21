@@ -1,6 +1,6 @@
 # How to develop on this project
 
-intersystems_iris_ep welcomes contributions from the community.
+intersystems-iris-ep welcomes contributions from the community.
 
 **You need PYTHON3!**
 

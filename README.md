@@ -40,7 +40,7 @@ See also
 - ✅ Code linting using [flake8](https://flake8.pycqa.org/en/latest/)
 - 📊 Code coverage reports using [codecov](https://about.codecov.io/sign-up/)
 - 🛳️ Automatic release to [PyPI](https://pypi.org) using [twine](https://twine.readthedocs.io/en/latest/) and github actions.
-- 🎯 Entry points to execute your program using `python -m <intersystems_iris_ep>` or `$ intersystems_iris_ep` with basic CLI argument parsing.
+- 🎯 Entry points to execute your program using `python -m <intersystems-iris-ep>` or `$ intersystems-iris-ep` with basic CLI argument parsing.
 - 🔄 Continuous integration using [Github Actions](.github/workflows/) with jobs to lint, test and release your project on Linux, Mac and Windows environments.
 
 > Curious about architectural decisions on this template? read [ABOUT_THIS_TEMPLATE.md](ABOUT_THIS_TEMPLATE.md)  
@@ -51,33 +51,33 @@ See also
 <!--  DELETE THE LINES ABOVE THIS AND WRITE YOUR PROJECT README BELOW -->
 
 ---
-# intersystems_iris_ep
+# intersystems-iris-ep
 
 [![codecov](https://codecov.io/gh/isc-rkuszews/intersystems-iris-ep/branch/main/graph/badge.svg?token=intersystems-iris-ep_token_here)](https://codecov.io/gh/isc-rkuszews/intersystems-iris-ep)
 [![CI](https://github.com/isc-rkuszews/intersystems-iris-ep/actions/workflows/main.yml/badge.svg)](https://github.com/isc-rkuszews/intersystems-iris-ep/actions/workflows/main.yml)
 
-Awesome intersystems_iris_ep created by isc-rkuszews
+Awesome intersystems-iris-ep created by isc-rkuszews
 
 ## Install it from PyPI
 
 ```bash
-pip install intersystems_iris_ep
+pip install intersystems-iris-ep
 ```
 
 ## Usage
 
 ```py
-from intersystems_iris_ep import BaseClass
-from intersystems_iris_ep import base_function
+from intersystems-iris-ep import BaseClass
+from intersystems-iris-ep import base_function
 
 BaseClass().base_method()
 base_function()
 ```
 
 ```bash
-$ python -m intersystems_iris_ep
+$ python -m intersystems-iris-ep
 #or
-$ intersystems_iris_ep
+$ intersystems-iris-ep
 ```
 
 ## Development
